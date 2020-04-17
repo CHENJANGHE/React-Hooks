@@ -6,12 +6,12 @@ import HooksLife from "./example/HooksLife.jsx"*/
 //import ReducerDemo from "./example/ReducerDemo.jsx"
 //import ShowDemo from "./colortoggle/ShowDemo.jsx"
 //import MemoDemo from "./MemoDemo/MemoDemo.jsx"
-import RefDemo from "./useRefDemo/UseRefDemo.jsx"
+import HooksDiyDemo from "./HooksDiy/HooksDiy.jsx"
 
 
 ReactDOM.render(
 	<div>
-    <RefDemo />
+    <HooksDiyDemo />
   </div>,
 	document.getElementById('root')
 );
